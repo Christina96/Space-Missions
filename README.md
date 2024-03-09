@@ -1,4 +1,4 @@
-# Space-Missions
+# Space-Missions Analysis
 This project aims to analyze and visualize trends in space mission data from an Excel file containing information about satellite missions. The analysis focuses on exploring mission outcomes, countries' involvement, and types of missions conducted over time.
 
 Dataset

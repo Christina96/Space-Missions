@@ -4,7 +4,7 @@ This project aims to analyze and visualize trends in space mission data from an 
 Dataset
 The dataset is stored in an Excel file named space_missions.xlsx and contains information about various aspects of satellite missions, including satellite names, countries of operation, mission purposes, launch dates, and more.
 
-Getting Started
+# Getting Started
 
 Install the required libraries using pip:
 
@@ -16,17 +16,17 @@ Run the Python script main.py to analyze and visualize the space mission data:
 
 python main.py
 
-Analysis
+# Analysis
 The analysis includes the following visualizations:
 
 Top 10 Mission Purposes:
 
-A bar chart showing the top 10 mission purposes based on the 'Purpose' column in the dataset.
+1. A bar chart showing the top 10 mission purposes based on the 'Purpose' column in the dataset.
 Top 10 Countries with Most Space Missions:
 
-A bar chart showing the top 10 countries with the most space missions based on the 'Country of Operator/Owner' column in the dataset.
+2. A bar chart showing the top 10 countries with the most space missions based on the 'Country of Operator/Owner' column in the dataset.
 Distribution of Mission Orbits:
 
-A pie chart showing the distribution of mission orbits based on the 'Class of Orbit' column in the dataset.
+3. A pie chart showing the distribution of mission orbits based on the 'Class of Orbit' column in the dataset.
 
-A plot of the number of missions over time
+4. A plot of the number of missions over time
